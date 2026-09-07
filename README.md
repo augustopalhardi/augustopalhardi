@@ -47,20 +47,6 @@
 - **Sistema de Gestão de Manutenções** — sistema full-stack para controle de ordens de serviço, desenvolvido para cliente real (MSE Manutenção e Automação). Arquitetura em camadas (DAO/Service/View), autenticação com jBCrypt, notificações por e-mail, deploy automatizado via GitHub Actions em servidor EC2.
 - **Sistema de Relatórios Internos** — ferramenta interna para geração e gestão de relatórios, também construída para cliente em produção.
 
-> Fixe seus melhores repositórios aqui em cima do perfil (ícone de pin) para que apareçam automaticamente nesta seção do GitHub.
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=augustopalhardi&show_icons=true&theme=default" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustopalhardi" alt="GitHub Streak"/>
-</p>
-
 ---
 
 <p align="center">📫 Aberto a oportunidades de estágio em desenvolvimento Java!</p>
