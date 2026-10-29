@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/augustopalhardi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:augusto.palhardi@gmail.com">
+  <a href="mailto:augusto.palhardi@exemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -61,15 +61,6 @@ Sou desenvolvedor web em início de carreira e já atuo como freelancer, constru
 
 - **Sistema de Gestão de Manutenções** — aplicação web full stack para controle de ordens de serviço, em produção para a MSE Manutenção e Automação. Arquitetura em camadas (DAO/Service/View), autenticação com jBCrypt, notificações por e-mail e deploy automatizado via GitHub Actions em servidor AWS EC2.
 - **Sistema de Relatórios Internos** — ferramenta web para geração e gestão de relatórios, também em uso pelo cliente.
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=augustopalhardi&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustopalhardi&layout=compact&hide_border=true" alt="Top linguagens"/>
-</p>
 
 ---
 
